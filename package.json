@@ -1,0 +1,25 @@
+{
+  "name": "vulgar-prab",
+  "version": "1.0.0",
+  "description": "restrict vulgar words by a person",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prabhattopi/vulgar-prab.git"
+  },
+  "keywords": [
+    "vulgar"
+  ],
+  "author": "Prabhat Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prabhattopi/vulgar-prab/issues"
+  },
+  "homepage": "https://github.com/prabhattopi/vulgar-prab#readme",
+  "dependencies": {
+    "vulgar-prab": "^1.0.0"
+  }
+}
