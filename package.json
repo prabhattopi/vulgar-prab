@@ -1,6 +1,6 @@
 {
   "name": "vulgar-prab",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "restrict vulgar words by a person",
   "main": "index.js",
   "scripts": {
