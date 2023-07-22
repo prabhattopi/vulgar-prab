@@ -1,6 +1,6 @@
 {
   "name": "vulgar-prab",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "restrict vulgar words by a person",
   "main": "index.js",
   "scripts": {
@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/prabhattopi/vulgar-prab#readme",
   "dependencies": {
-    "vulgar-prab": "^1.0.0"
+    "vulgar-prab": "^1.0.2"
   }
 }
